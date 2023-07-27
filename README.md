@@ -28,6 +28,10 @@ This project is made for people to calculate their BMI.
 
 
 
+https://github.com/lucasmichels/exp_bmi-calculator/assets/39132280/4a1aeb1d-742f-4144-875b-7cec210a59a0
+
+
+
 ## Authors
 
 - [@lucasmichels](https://www.github.com/lucasmichels)
